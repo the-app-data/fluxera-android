@@ -1,5 +1,6 @@
 Data:
 
+```json
 {
   "app_update": {
     "latest_version_code": 2,
@@ -36,3 +37,4 @@ Data:
     }
   ]
 }
+```
